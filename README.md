@@ -1,0 +1,3 @@
+# SpringBoot-Mybatis-mysql
+持久层框架，可定制SQL，存储过程，高级映射，避免JDBC代码和手动设置参数以及获取结果集，使用简单XML或注解将接口和普通Java对象（Plain Old Java Object，POJO）映射成数据库中记录。
+每个MYBatis应用程序都要使用SqlSessionFactory实例，其实例通过SqlSessionFactoryBuilder获得，从而使用XML配置文件或预定义的配置类的实例获得
